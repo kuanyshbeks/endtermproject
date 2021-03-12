@@ -1,0 +1,19 @@
+{
+  "name": "endterm",
+  "version": "1.0.0",
+  "description": "endterm project website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016https://github.com/kuanyshbeks/endtermproject.git"
+  },
+  "keywords": [
+    "endterm",
+    "nodejs"
+  ],
+  "author": "Kuanyshbek Sagyngaliyev",
+  "license": "ISC"
+}
